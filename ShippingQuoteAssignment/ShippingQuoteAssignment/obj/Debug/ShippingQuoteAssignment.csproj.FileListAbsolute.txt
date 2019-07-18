@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\ShippingQuoteAssignment\ShippingQuoteAssignment\obj\Debug\ShippingQuoteAssignment.csprojAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\ShippingQuoteAssignment\ShippingQuoteAssignment\obj\Debug\ShippingQuoteAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\ShippingQuoteAssignment\ShippingQuoteAssignment\bin\Debug\ShippingQuoteAssignment.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\ShippingQuoteAssignment\ShippingQuoteAssignment\bin\Debug\ShippingQuoteAssignment.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\ShippingQuoteAssignment\ShippingQuoteAssignment\bin\Debug\ShippingQuoteAssignment.pdb
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\ShippingQuoteAssignment\ShippingQuoteAssignment\obj\Debug\ShippingQuoteAssignment.exe
+C:\Users\Administrator\Documents\Visual Studio 2019\Projects\ShippingQuoteAssignment\ShippingQuoteAssignment\obj\Debug\ShippingQuoteAssignment.pdb
